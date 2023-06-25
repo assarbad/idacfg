@@ -1,0 +1,6 @@
+syntax: glob
+proccache.lst
+proccache64.lst
+trusted_i64_list.bin
+trusted_idb_list.bin
+.git/
