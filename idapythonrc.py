@@ -5,6 +5,8 @@
 # %APPDATA%\Hex-Rays\IDA Pro
 #---------------------------------------------------------------------
 import idaapi
+import idautils
+
 # from ida_ida import inf_is_32bit_exactly as is_32bit, inf_is_64bit as is_64bit
 
 # Add your favourite script to ScriptBox for easy access
